@@ -1,7 +1,7 @@
 hateful meme detection
-![alt text](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/input_dataset.jpg)
-![alt text](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/pipeline.jpg)
-![alt text](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/preprocess.jpg)
-![alt text](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/easyocr.jpg)
-![alt text](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/webdetect.jpg)
-![alt text](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/coattention.jpg)
+![Input](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/input_dataset.jpg)
+![Pipeline](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/pipeline.jpg)
+![Preprocess](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/preprocess.jpg)
+![OCR](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/easyocr.jepg)
+![Web Detect](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/webdetect.jpg)
+![Coattention](https://github.com/Srigowri/Hateful-Meme-Detection/blob/main/images/coattention.png)
